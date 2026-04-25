@@ -1,0 +1,21 @@
+[23-Apr-2026 18:15:11 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught TypeError: esc(): Argument #1 ($s) must be of type string, null given, called in /home/itrack/crm.itrack.com.ar/cliente_detalle.php on line 366 and defined in /home/itrack/crm.itrack.com.ar/includes/config.php:83
+Stack trace:
+#0 /home/itrack/crm.itrack.com.ar/cliente_detalle.php(366): esc()
+#1 {main}
+  thrown in /home/itrack/crm.itrack.com.ar/includes/config.php on line 83
+[23-Apr-2026 18:16:01 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught TypeError: esc(): Argument #1 ($s) must be of type string, null given, called in /home/itrack/crm.itrack.com.ar/cliente_detalle.php on line 366 and defined in /home/itrack/crm.itrack.com.ar/includes/config.php:83
+Stack trace:
+#0 /home/itrack/crm.itrack.com.ar/cliente_detalle.php(366): esc()
+#1 {main}
+  thrown in /home/itrack/crm.itrack.com.ar/includes/config.php on line 83
+[23-Apr-2026 18:16:05 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught TypeError: esc(): Argument #1 ($s) must be of type string, null given, called in /home/itrack/crm.itrack.com.ar/cliente_detalle.php on line 366 and defined in /home/itrack/crm.itrack.com.ar/includes/config.php:83
+Stack trace:
+#0 /home/itrack/crm.itrack.com.ar/cliente_detalle.php(366): esc()
+#1 {main}
+  thrown in /home/itrack/crm.itrack.com.ar/includes/config.php on line 83
+[23-Apr-2026 18:16:21 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught TypeError: esc(): Argument #1 ($s) must be of type string, null given, called in /home/itrack/crm.itrack.com.ar/cliente_detalle.php on line 366 and defined in /home/itrack/crm.itrack.com.ar/includes/config.php:83
+Stack trace:
+#0 /home/itrack/crm.itrack.com.ar/cliente_detalle.php(366): esc()
+#1 {main}
+  thrown in /home/itrack/crm.itrack.com.ar/includes/config.php on line 83
+[23-Apr-2026 18:17:29 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected token ";" in /home/itrack/crm.itrack.com.ar/importar.php on line 159
